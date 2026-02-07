@@ -1,0 +1,2 @@
+# Requires: pseudo-duration
+# (Not available on PyPI)
